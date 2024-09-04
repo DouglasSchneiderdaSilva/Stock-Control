@@ -77,6 +77,3 @@ Este sistema de controle de estoque é um exemplo de aplicação de conceitos b�
 
 Douglas Schneider da Silva
 
-## Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
